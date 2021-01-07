@@ -9,6 +9,6 @@ Programa feito em Java.
 <p> Cadastro de conta cliente.
 <p> Caixa(consultar extrato, depositar, sacar).
 
-Cliente cadastra-se na rede do Banco, abre uma conta, utiliza os recursos do caixa, no caixa o cliente consegue realizar consulta de extrato, deposito de celulas e saque.
+Cliente cadastra-se na rede do Banco, abre uma conta, utiliza os recursos do caixa, no caixa o cliente consegue realizar consulta de extrato, deposito e saque.
 
 
